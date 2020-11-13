@@ -151,7 +151,7 @@ systemd-python==234
 tables==3.4.2
 tensorboard==1.14.0
 tensorboardX==1.8
-tensorflow==1.14.0
+tensorflow==2.3.1
 tensorflow-estimator==1.14.0
 tensorflow-gpu==1.14.0
 tensorflow-serving-api==1.14.0
