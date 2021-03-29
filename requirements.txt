@@ -108,7 +108,7 @@ pydot==1.2.3
 pyflakes==1.6.0
 PyGetWindow==0.0.7
 pyglet==1.4.1
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.26.1
 pygpu==0.7.6
 pyinotify==0.9.6
