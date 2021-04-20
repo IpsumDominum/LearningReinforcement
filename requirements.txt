@@ -96,7 +96,7 @@ progressbar2==3.42.0
 prompt-toolkit==1.0.15
 protobuf==3.9.1
 ptan==0.4
-py==1.5.2
+py==1.10.0
 PyAutoGUI==0.9.47
 pybullet==2.5.5
 pycairo==1.16.2
