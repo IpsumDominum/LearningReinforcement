@@ -71,7 +71,7 @@ mccabe==0.6.1
 mistune==0.8.3
 MouseInfo==0.0.4
 mpi4py==3.0.2
-nbconvert==5.3.1
+nbconvert==6.3.0
 nbformat==4.4.0
 neat-python==0.92
 netifaces==0.10.4
